@@ -20,27 +20,27 @@ There were total 6 datasets used in this IPL analysis. These datasets have a rec
 
 # Analysis Conclusions:
 ### From deliveries datatset:-
-> **Virat Kohli** and **Suresh Raina** are the best batsman.
-> **Chris Gayle** hits the most 6's during IPL.
-> **Shikhar Dhawan** hits the most 4's during IPL.
-> **MS Dhoni** has the highest score in last 4 overs.
+> __Virat Kohli__ and __Suresh Raina__ are the best batsman.
+> __Chris Gayle__ hits the most 6's during IPL.
+> __Shikhar Dhawan__ hits the most 4's during IPL.
+> __MS Dhoni__ has the highest score in last 4 overs.
 
 ### From matches dataset:-
-> **Mumbai Indians** has won the most matches during IPL.
-> **Chris Gayle** got the award player of match more times than others.
-> **Sundaram Ravi** has umpired the most of matches.
+> __Mumbai Indians__ has won the most matches during IPL.
+> __Chris Gayle__ got the award player of match more times than others.
+> __Sundaram Ravi__ has umpired the most of matches.
 
 ### From most_runs_average_strikerate dataset:-
-> **B Stanlake** and **KMDN Kulasekara** has the highest strike rate among all the players.
-> **Iqbal Abdulla** has the highest average.
-> **Rohit Sharma** got dismissed more number of times than others.
-> **Virat Kohli** has faced the highest number of balls and scored the highest runs as well.
+> __B Stanlake__ and __KMDN Kulasekara__ has the highest strike rate among all the players.
+> __Iqbal Abdulla__ has the highest average.
+> __Rohit Sharma__ got dismissed more number of times than others.
+> __Virat Kohli__ has faced the highest number of balls and scored the highest runs as well.
 
 ### From Players dataset:-
-> Most of the players belongs to **India**.
-> Most of the players play with **right hand**.
-> Many players have **right-arm medium** bowling skill.
+> Most of the players belongs to __India__.
+> Most of the players play with __right hand__.
+> Many players have __right-arm medium__ bowling skill.
 
 ### From teamwise_home_and_away dataset:-
-> **Mumbai Indians** had played most matches at home ground and also won the highest matches.
-> **KKR** had played most matches at another ground and also won the highest matches.
+> __Mumbai Indians__ had played most matches at home ground and also won the highest matches.
+> __KKR__ had played most matches at another ground and also won the highest matches.
