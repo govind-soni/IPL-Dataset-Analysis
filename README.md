@@ -1,4 +1,5 @@
 # IPL-DATA-ANALYSIS
+### *Dataset Link*:- https://www.kaggle.com/ramjidoolla/ipl-data-set
 There were total 6 datasets used in this IPL analysis. These datasets have a record of IPL season from  2008 to 2019.
 ## #1 Dataset- deliveries.csv
 * This data is about the each ball delivered during each match. Here we have complete detail of each ball such as who is batsman, non-striker batsman, bowler, etc. at particular ball. Along with it has detail about type of runs i.e. is it a wide ball run, no ball run, penalty run, etc.
